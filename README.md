@@ -73,8 +73,3 @@ Frontend: HTML, CSS, JavaScript
 🧑‍💻 AUTHOR  
 Shalini  
 GitHub: https://github.com/shalini291  
-
-📄 LICENSE  
-This project is licensed under the MIT License.
-
-⭐ If you like this project, please give it a star!
